@@ -3,7 +3,26 @@ import pandas as pd
 import numpy as np
 import joblib
 import plotly.express as px
+import matplotlib.pyplot as plt
+import seaborn as sns
 
+# ML & Pipeline Architecture matching internal core methodologies
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.ensemble import RandomForestClassifier
+
+st.set_page_config(
+    page_title="MedCore Operations Dashboard",
+    page_icon="🏥",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
+
+# Load data
 df = pd.read_csv("department_analysis.csv")
 
 risk_model = joblib.load("models/risk_model.pkl")
@@ -13,12 +32,14 @@ cluster_model = joblib.load("models/cluster_model.pkl")
 scaler = joblib.load("models/scaler.pkl")
 cluster_columns = joblib.load("models/cluster_columns.pkl")
 
-# cluster cols
+
+# Generate clusters
 cluster_X = df[cluster_columns]
 cluster_scaled = scaler.transform(cluster_X)
+
 df["Cluster"] = cluster_model.predict(cluster_scaled)
 
-# cluster labels
+
 cluster_labels = {
     0: "High Volume / Stable Operations",
     1: "Resource Constrained Departments",
@@ -27,52 +48,22 @@ cluster_labels = {
 
 df["Cluster Name"] = df["Cluster"].map(cluster_labels)
 
-st.set_page_config(
-    page_title="MedCore AI Operations Dashboard",
-    layout="wide"
-)
 
+# Page title
 st.title("MedCore AI Operations Dashboard")
 
+
+# Sidebar
+st.sidebar.title("MedCore Systems")
+
 page = st.sidebar.radio(
-    "Navigation",
+    "test",
     [
         "Executive Overview",
-        "Department Explorer",
-        "Department Clusters"
+        "Operational Error Drivers",
+        "Actionable Recommendations"
     ]
 )
-
-risk_features = df[
-    [
-        "annual_budget",
-        "base_wait_days",
-        "manual_workload_multiplier",
-        "claim_denial_risk",
-        "lab_delay_risk",
-        "provider_count",
-        "location"
-    ]
-]
-
-risk_features = pd.get_dummies(
-    risk_features,
-    columns=["location"],
-    drop_first=True
-)
-
-risk_features = risk_features.reindex(
-    columns=risk_columns,
-    fill_value=0
-)
-
-df["Predicted Risk"] = risk_model.predict(risk_features)
-
-cluster_X = df[cluster_columns]
-
-cluster_scaled = scaler.transform(cluster_X)
-
-df["Cluster"] = cluster_model.predict(cluster_scaled)
 
 # page one
 if page == "Executive Overview":
@@ -221,7 +212,7 @@ if page == "Executive Overview":
     )
 
 # page 2
-if page == "Department Explorer":
+if page == "Operational Error Drivers":
 
     st.header("Department Explorer")
 
@@ -290,7 +281,7 @@ if page == "Department Explorer":
     """)
 
 # page 3
-if page == "Department Clusters":
+if page == "Actionable Recommendations":
 
     st.header("Department Segments")
     # placeholder page
