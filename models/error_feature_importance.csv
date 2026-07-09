@@ -1,0 +1,16 @@
+Feature,Importance
+manual_minutes,0.5020364072220729
+task_type_Excel Report,0.21872220934995515
+manual_workload_multiplier,0.09702631630097226
+claim_denial_risk,0.06339229115786993
+task_type_Scheduling,0.033533479119881436
+task_type_Data Entry,0.02249612539013016
+task_type_Patient Follow-Up,0.018036531030837268
+task_type_Claim Review,0.01397618246399454
+task_type_Lab Follow-Up,0.008973854616359613
+system_used_Excel,0.004292604381198367
+system_used_EMR,0.004223993822407439
+system_used_Email,0.004014911906456122
+system_used_Billing System,0.003997129859463566
+system_used_Paper Form,0.003915013648134232
+task_type_Billing Review,0.001362949730267077

@@ -1,0 +1,351 @@
+department_name,task_type,total_manual_minutes,task_count,avg_manual_minutes
+Cardiology,Billing Review,1731.4,29,59.70344827586207
+Cardiology,Claim Review,100615.1,1552,64.82931701030928
+Cardiology,Data Entry,57988.9,1545,37.53326860841424
+Cardiology,Excel Report,208331.8,2224,93.67437050359712
+Cardiology,Lab Follow-Up,31476.8,716,43.96201117318436
+Cardiology,Patient Follow-Up,74305.9,1546,48.06332470892626
+Cardiology,Scheduling,38189.6,1227,31.12436837815811
+Cardiology Unit 2,Billing Review,1593.0,36,44.25
+Cardiology Unit 2,Claim Review,72075.9,1569,45.937476099426384
+Cardiology Unit 2,Data Entry,40101.3,1489,26.931699126930827
+Cardiology Unit 2,Excel Report,147101.7,2212,66.50167269439422
+Cardiology Unit 2,Lab Follow-Up,21257.8,676,31.44644970414201
+Cardiology Unit 2,Patient Follow-Up,55792.8,1662,33.56967509025271
+Cardiology Unit 2,Scheduling,26589.9,1223,21.741537203597712
+Dermatology,Billing Review,1434.1,25,57.364
+Dermatology,Claim Review,89164.9,1546,57.67457956015524
+Dermatology,Data Entry,49799.9,1503,33.133666001330674
+Dermatology,Excel Report,177949.3,2142,83.07623716153127
+Dermatology,Lab Follow-Up,26982.7,698,38.657163323782235
+Dermatology,Patient Follow-Up,67892.9,1604,42.32724438902743
+Dermatology,Scheduling,36457.8,1308,27.872935779816515
+Dermatology Unit 2,Billing Review,4463.8,36,123.99444444444445
+Dermatology Unit 2,Claim Review,185960.0,1544,120.44041450777202
+Dermatology Unit 2,Data Entry,103483.5,1485,69.68585858585858
+Dermatology Unit 2,Excel Report,375407.7,2151,174.52705718270573
+Dermatology Unit 2,Lab Follow-Up,58313.3,707,82.47991513437059
+Dermatology Unit 2,Patient Follow-Up,143085.4,1602,89.31672908863919
+Dermatology Unit 2,Scheduling,70436.1,1223,57.59288634505315
+ENT,Billing Review,652.8,19,34.357894736842105
+ENT,Claim Review,52514.8,1560,33.663333333333334
+ENT,Data Entry,30732.2,1520,20.218552631578948
+ENT,Excel Report,110356.5,2249,49.06914184081814
+ENT,Lab Follow-Up,15886.9,672,23.641220238095237
+ENT,Patient Follow-Up,39799.1,1583,25.1415666456096
+ENT,Scheduling,21121.5,1222,17.284369885433716
+ENT Unit 2,Billing Review,913.3,27,33.82592592592592
+ENT Unit 2,Claim Review,51330.0,1549,33.1375080697224
+ENT Unit 2,Data Entry,31673.2,1563,20.264363403710814
+ENT Unit 2,Excel Report,108233.3,2225,48.6441797752809
+ENT Unit 2,Lab Follow-Up,17244.7,739,23.33518267929635
+ENT Unit 2,Patient Follow-Up,38103.3,1543,24.694296824368116
+ENT Unit 2,Scheduling,21316.8,1246,17.108186195826644
+Emergency,Billing Review,1648.2,30,54.940000000000005
+Emergency,Claim Review,80954.0,1554,52.09395109395109
+Emergency,Data Entry,47592.1,1565,30.4102875399361
+Emergency,Excel Report,168223.3,2232,75.36886200716846
+Emergency,Lab Follow-Up,25774.8,710,36.3025352112676
+Emergency,Patient Follow-Up,63555.0,1636,38.84779951100244
+Emergency,Scheduling,32238.0,1293,24.932714617169374
+Emergency Unit 2,Billing Review,2261.8,34,66.52352941176471
+Emergency Unit 2,Claim Review,102349.5,1568,65.27391581632654
+Emergency Unit 2,Data Entry,59347.9,1559,38.06792815907633
+Emergency Unit 2,Excel Report,220364.1,2320,94.98452586206896
+Emergency Unit 2,Lab Follow-Up,33131.1,725,45.69806896551724
+Emergency Unit 2,Patient Follow-Up,74707.7,1537,48.606180871828236
+Emergency Unit 2,Scheduling,39638.6,1259,31.48419380460683
+Endocrinology,Billing Review,1461.3,43,33.98372093023256
+Endocrinology,Claim Review,51110.6,1540,33.1887012987013
+Endocrinology,Data Entry,29729.2,1508,19.714323607427055
+Endocrinology,Excel Report,104773.4,2174,48.193836246550134
+Endocrinology,Lab Follow-Up,16268.6,715,22.753286713286712
+Endocrinology,Patient Follow-Up,41568.7,1665,24.966186186186185
+Endocrinology,Scheduling,21046.7,1265,16.637707509881423
+Endocrinology Unit 2,Billing Review,814.0,30,27.133333333333333
+Endocrinology Unit 2,Claim Review,53723.1,1594,33.70332496863237
+Endocrinology Unit 2,Data Entry,29835.5,1539,19.386289798570502
+Endocrinology Unit 2,Excel Report,107364.4,2222,48.31881188118812
+Endocrinology Unit 2,Lab Follow-Up,16653.9,714,23.324789915966388
+Endocrinology Unit 2,Patient Follow-Up,40927.1,1602,25.547503121098625
+Endocrinology Unit 2,Scheduling,19828.5,1217,16.29293344289236
+Family Medicine,Billing Review,2113.5,34,62.161764705882355
+Family Medicine,Claim Review,100636.7,1615,62.31374613003096
+Family Medicine,Data Entry,56309.6,1562,36.04967989756722
+Family Medicine,Excel Report,199206.1,2217,89.85390166892196
+Family Medicine,Lab Follow-Up,30145.1,708,42.57782485875706
+Family Medicine,Patient Follow-Up,73252.4,1600,45.78274999999999
+Family Medicine,Scheduling,37732.8,1277,29.548003132341428
+Family Medicine Unit 2,Billing Review,1132.6,25,45.303999999999995
+Family Medicine Unit 2,Claim Review,78236.9,1613,48.50396776193428
+Family Medicine Unit 2,Data Entry,42591.0,1499,28.41294196130754
+Family Medicine Unit 2,Excel Report,155621.8,2219,70.13150067598016
+Family Medicine Unit 2,Lab Follow-Up,22992.9,685,33.566277372262775
+Family Medicine Unit 2,Patient Follow-Up,56089.1,1559,35.97761385503528
+Family Medicine Unit 2,Scheduling,28150.9,1217,23.131388660640923
+Gastroenterology,Billing Review,1205.9,36,33.49722222222223
+Gastroenterology,Claim Review,51414.4,1552,33.12783505154639
+Gastroenterology,Data Entry,29076.6,1432,20.304888268156425
+Gastroenterology,Excel Report,106794.9,2218,48.149188458070334
+Gastroenterology,Lab Follow-Up,15544.7,706,22.01798866855524
+Gastroenterology,Patient Follow-Up,38871.5,1599,24.309881175734834
+Gastroenterology,Scheduling,20180.1,1215,16.609135802469133
+Gastroenterology Unit 2,Billing Review,1815.7,29,62.61034482758621
+Gastroenterology Unit 2,Claim Review,96044.6,1523,63.06277084701248
+Gastroenterology Unit 2,Data Entry,55233.5,1539,35.88921377517869
+Gastroenterology Unit 2,Excel Report,202923.3,2248,90.26837188612099
+Gastroenterology Unit 2,Lab Follow-Up,29474.4,685,43.02832116788321
+Gastroenterology Unit 2,Patient Follow-Up,71415.5,1555,45.92636655948553
+Gastroenterology Unit 2,Scheduling,37575.8,1264,29.727689873417724
+Geriatrics,Billing Review,1989.2,32,62.1625
+Geriatrics,Claim Review,96502.1,1573,61.349078194532744
+Geriatrics,Data Entry,54007.2,1482,36.44210526315789
+Geriatrics,Excel Report,199258.4,2232,89.27347670250896
+Geriatrics,Lab Follow-Up,30596.8,723,42.319225449515905
+Geriatrics,Patient Follow-Up,72304.7,1598,45.24699624530663
+Geriatrics,Scheduling,35041.9,1189,29.4717409587889
+Geriatrics Unit 2,Billing Review,2716.2,25,108.648
+Geriatrics Unit 2,Claim Review,169553.2,1553,109.17784932388925
+Geriatrics Unit 2,Data Entry,95810.3,1522,62.950262812089356
+Geriatrics Unit 2,Excel Report,343813.1,2187,157.20763603109282
+Geriatrics Unit 2,Lab Follow-Up,52674.0,703,74.92745376955904
+Geriatrics Unit 2,Patient Follow-Up,124582.8,1570,79.35210191082803
+Geriatrics Unit 2,Scheduling,61718.0,1194,51.69011725293132
+Gynecology,Billing Review,1148.7,29,39.61034482758621
+Gynecology,Claim Review,62696.2,1571,39.908465945257795
+Gynecology,Data Entry,34014.4,1476,23.0449864498645
+Gynecology,Excel Report,125176.7,2195,57.02810933940774
+Gynecology,Lab Follow-Up,19083.3,714,26.727310924369746
+Gynecology,Patient Follow-Up,45539.0,1577,28.87698161065314
+Gynecology,Scheduling,22865.8,1206,18.960033167495855
+Gynecology Unit 2,Billing Review,644.1,23,28.004347826086956
+Gynecology Unit 2,Claim Review,43656.1,1590,27.456666666666667
+Gynecology Unit 2,Data Entry,23993.7,1451,16.535975189524468
+Gynecology Unit 2,Excel Report,88960.0,2258,39.39769707705934
+Gynecology Unit 2,Lab Follow-Up,13722.5,705,19.4645390070922
+Gynecology Unit 2,Patient Follow-Up,33696.5,1602,21.03401997503121
+Gynecology Unit 2,Scheduling,16498.6,1157,14.259809853068278
+Infectious Disease,Billing Review,982.9,27,36.403703703703705
+Infectious Disease,Claim Review,56380.2,1506,37.43705179282868
+Infectious Disease,Data Entry,32738.7,1530,21.397843137254903
+Infectious Disease,Excel Report,120591.0,2239,53.85931219294328
+Infectious Disease,Lab Follow-Up,19525.8,759,25.72569169960474
+Infectious Disease,Patient Follow-Up,43227.0,1579,27.376187460417984
+Infectious Disease,Scheduling,22395.5,1233,18.163422546634227
+Infectious Disease Unit 2,Billing Review,1282.2,33,38.85454545454546
+Infectious Disease Unit 2,Claim Review,60917.6,1575,38.67784126984127
+Infectious Disease Unit 2,Data Entry,32808.8,1473,22.273455532926004
+Infectious Disease Unit 2,Excel Report,121882.2,2191,55.628571428571426
+Infectious Disease Unit 2,Lab Follow-Up,18895.3,709,26.650634696755994
+Infectious Disease Unit 2,Patient Follow-Up,43976.1,1560,28.189807692307692
+Infectious Disease Unit 2,Scheduling,21648.8,1179,18.36200169635284
+Internal Medicine,Billing Review,1071.6,34,31.517647058823528
+Internal Medicine,Claim Review,51080.7,1493,34.213462826523774
+Internal Medicine,Data Entry,28603.0,1416,20.199858757062145
+Internal Medicine,Excel Report,112863.9,2273,49.65415750109987
+Internal Medicine,Lab Follow-Up,16455.7,683,24.093265007320646
+Internal Medicine,Patient Follow-Up,40778.0,1628,25.047911547911546
+Internal Medicine,Scheduling,21820.4,1289,16.928161365399536
+Internal Medicine Unit 2,Billing Review,1770.5,31,57.11290322580645
+Internal Medicine Unit 2,Claim Review,85457.2,1583,53.98433354390398
+Internal Medicine Unit 2,Data Entry,50106.8,1604,31.23865336658354
+Internal Medicine Unit 2,Excel Report,172276.6,2196,78.45018214936248
+Internal Medicine Unit 2,Lab Follow-Up,25950.6,698,37.17851002865329
+Internal Medicine Unit 2,Patient Follow-Up,64401.8,1618,39.80333745364648
+Internal Medicine Unit 2,Scheduling,31145.0,1208,25.78228476821192
+Nephrology,Billing Review,2026.2,33,61.4
+Nephrology,Claim Review,95234.0,1544,61.6800518134715
+Nephrology,Data Entry,52956.3,1488,35.588911290322585
+Nephrology,Excel Report,200599.0,2261,88.72136222910217
+Nephrology,Lab Follow-Up,30894.6,740,41.74945945945946
+Nephrology,Patient Follow-Up,70203.3,1560,45.00211538461539
+Nephrology,Scheduling,34724.3,1236,28.094093851132687
+Nephrology Unit 2,Billing Review,1759.4,30,58.64666666666667
+Nephrology Unit 2,Claim Review,99535.9,1650,60.32478787878787
+Nephrology Unit 2,Data Entry,52559.3,1501,35.016189207195204
+Nephrology Unit 2,Excel Report,191446.8,2196,87.17978142076502
+Nephrology Unit 2,Lab Follow-Up,27987.8,692,40.44479768786127
+Nephrology Unit 2,Patient Follow-Up,69100.6,1567,44.097383535418
+Nephrology Unit 2,Scheduling,34586.1,1206,28.678358208955224
+Neurology,Billing Review,1152.0,30,38.4
+Neurology,Claim Review,57552.0,1570,36.65732484076433
+Neurology,Data Entry,34729.7,1557,22.30552344251766
+Neurology,Excel Report,117469.7,2171,54.108567480423766
+Neurology,Lab Follow-Up,17382.9,669,25.98340807174888
+Neurology,Patient Follow-Up,43502.2,1612,26.986476426799005
+Neurology,Scheduling,22764.1,1248,18.240464743589744
+Neurology Unit 2,Billing Review,1189.3,34,34.97941176470588
+Neurology Unit 2,Claim Review,51279.3,1563,32.80825335892514
+Neurology Unit 2,Data Entry,28678.3,1463,19.602392344497606
+Neurology Unit 2,Excel Report,106688.4,2207,48.340915269596735
+Neurology Unit 2,Lab Follow-Up,17161.2,754,22.760212201591514
+Neurology Unit 2,Patient Follow-Up,38709.1,1574,24.5928208386277
+Neurology Unit 2,Scheduling,20438.6,1229,16.63026851098454
+Obstetrics,Billing Review,1230.6,29,42.43448275862069
+Obstetrics,Claim Review,64001.2,1597,40.07589229805886
+Obstetrics,Data Entry,36649.4,1523,24.063952724885095
+Obstetrics,Excel Report,126031.9,2170,58.07921658986175
+Obstetrics,Lab Follow-Up,21117.6,755,27.970331125827812
+Obstetrics,Patient Follow-Up,44789.5,1513,29.603106411103767
+Obstetrics,Scheduling,23773.6,1210,19.647603305785122
+Obstetrics Unit 2,Billing Review,1969.6,34,57.92941176470588
+Obstetrics Unit 2,Claim Review,88843.9,1509,58.87601060304837
+Obstetrics Unit 2,Data Entry,48101.6,1444,33.31135734072022
+Obstetrics Unit 2,Excel Report,188224.8,2225,84.59541573033707
+Obstetrics Unit 2,Lab Follow-Up,28399.2,714,39.77478991596639
+Obstetrics Unit 2,Patient Follow-Up,69916.6,1623,43.07861983980284
+Obstetrics Unit 2,Scheduling,33725.7,1200,28.10475
+Oncology,Billing Review,1750.0,27,64.81481481481481
+Oncology,Claim Review,105230.3,1559,67.49858883899935
+Oncology,Data Entry,60995.6,1542,39.55616083009079
+Oncology,Excel Report,223259.9,2269,98.39572498898193
+Oncology,Lab Follow-Up,32828.5,697,47.09971305595409
+Oncology,Patient Follow-Up,81444.2,1612,50.52369727047146
+Oncology,Scheduling,38903.9,1222,31.836252045826516
+Oncology Unit 2,Billing Review,1688.2,40,42.205
+Oncology Unit 2,Claim Review,67773.9,1581,42.86774193548387
+Oncology Unit 2,Data Entry,37289.0,1476,25.263550135501355
+Oncology Unit 2,Excel Report,139643.4,2246,62.17426536064114
+Oncology Unit 2,Lab Follow-Up,21064.0,713,29.542776998597475
+Oncology Unit 2,Patient Follow-Up,50820.6,1614,31.48736059479554
+Oncology Unit 2,Scheduling,27636.7,1319,20.952767247915087
+Ophthalmology,Billing Review,1369.1,33,41.487878787878785
+Ophthalmology,Claim Review,60328.2,1520,39.689605263157894
+Ophthalmology,Data Entry,35785.9,1493,23.96912257200268
+Ophthalmology,Excel Report,129120.3,2224,58.05768884892086
+Ophthalmology,Lab Follow-Up,18934.9,701,27.01126961483595
+Ophthalmology,Patient Follow-Up,45224.7,1506,30.029681274900398
+Ophthalmology,Scheduling,24563.1,1253,19.60343176376696
+Ophthalmology Unit 2,Billing Review,1247.6,30,41.586666666666666
+Ophthalmology Unit 2,Claim Review,64527.8,1596,40.430952380952384
+Ophthalmology Unit 2,Data Entry,36183.1,1550,23.34393548387097
+Ophthalmology Unit 2,Excel Report,134024.3,2286,58.62830271216097
+Ophthalmology Unit 2,Lab Follow-Up,19280.4,683,28.228989751098098
+Ophthalmology Unit 2,Patient Follow-Up,45857.4,1538,29.81625487646294
+Ophthalmology Unit 2,Scheduling,23631.5,1201,19.676519567027476
+Orthopedics,Billing Review,1150.5,37,31.094594594594593
+Orthopedics,Claim Review,44659.1,1566,28.51794380587484
+Orthopedics,Data Entry,24878.4,1477,16.843872714962764
+Orthopedics,Excel Report,94102.2,2265,41.546225165562916
+Orthopedics,Lab Follow-Up,13921.3,712,19.55238764044944
+Orthopedics,Patient Follow-Up,33889.2,1569,21.599235181644357
+Orthopedics,Scheduling,18647.6,1255,14.858645418326692
+Orthopedics Unit 2,Billing Review,4495.3,41,109.64146341463415
+Orthopedics Unit 2,Claim Review,186247.3,1660,112.19716867469879
+Orthopedics Unit 2,Data Entry,98489.9,1522,64.71084099868594
+Orthopedics Unit 2,Excel Report,360959.7,2214,163.03509485094852
+Orthopedics Unit 2,Lab Follow-Up,54166.4,707,76.61442715700142
+Orthopedics Unit 2,Patient Follow-Up,135298.9,1628,83.10743243243243
+Orthopedics Unit 2,Scheduling,65095.7,1222,53.26980360065466
+Pediatrics,Billing Review,1437.5,30,47.916666666666664
+Pediatrics,Claim Review,72772.9,1607,45.2849408836341
+Pediatrics,Data Entry,41632.2,1588,26.21675062972292
+Pediatrics,Excel Report,143922.6,2204,65.30063520871144
+Pediatrics,Lab Follow-Up,23125.6,740,31.25081081081081
+Pediatrics,Patient Follow-Up,50769.5,1548,32.796834625322994
+Pediatrics,Scheduling,27162.3,1263,21.506175771971495
+Pediatrics Unit 2,Billing Review,1204.8,35,34.42285714285714
+Pediatrics Unit 2,Claim Review,51931.3,1559,33.31064785118666
+Pediatrics Unit 2,Data Entry,29285.7,1502,19.49780292942743
+Pediatrics Unit 2,Excel Report,109500.0,2260,48.45132743362832
+Pediatrics Unit 2,Lab Follow-Up,16490.0,708,23.2909604519774
+Pediatrics Unit 2,Patient Follow-Up,38892.2,1606,24.21681195516812
+Pediatrics Unit 2,Scheduling,20710.5,1236,16.756067961165048
+Psychiatry,Billing Review,1224.9,42,29.164285714285718
+Psychiatry,Claim Review,43144.3,1567,27.533056796426294
+Psychiatry,Data Entry,25625.6,1526,16.792660550458713
+Psychiatry,Excel Report,88612.6,2237,39.61224854716138
+Psychiatry,Lab Follow-Up,13545.0,711,19.050632911392405
+Psychiatry,Patient Follow-Up,32595.9,1549,21.043189154293092
+Psychiatry,Scheduling,17024.5,1193,14.270326906957251
+Psychiatry Unit 2,Billing Review,2812.1,30,93.73666666666666
+Psychiatry Unit 2,Claim Review,145329.5,1555,93.45948553054663
+Psychiatry Unit 2,Data Entry,77790.6,1449,53.68571428571429
+Psychiatry Unit 2,Excel Report,282226.8,2085,135.36057553956834
+Psychiatry Unit 2,Lab Follow-Up,43612.1,681,64.04126284875183
+Psychiatry Unit 2,Patient Follow-Up,111646.2,1633,68.36876913655848
+Psychiatry Unit 2,Scheduling,53604.2,1199,44.70742285237698
+Pulmonology,Billing Review,1902.7,39,48.787179487179486
+Pulmonology,Claim Review,78667.3,1616,48.6802599009901
+Pulmonology,Data Entry,40813.4,1448,28.186049723756906
+Pulmonology,Excel Report,157069.3,2224,70.62468525179855
+Pulmonology,Lab Follow-Up,24040.4,726,33.11349862258953
+Pulmonology,Patient Follow-Up,56618.2,1575,35.94806349206349
+Pulmonology,Scheduling,28110.5,1226,22.92862969004894
+Pulmonology Unit 2,Billing Review,923.1,21,43.957142857142856
+Pulmonology Unit 2,Claim Review,72067.9,1606,44.87415940224159
+Pulmonology Unit 2,Data Entry,40375.0,1527,26.4407334643091
+Pulmonology Unit 2,Excel Report,145409.1,2218,65.55865644724977
+Pulmonology Unit 2,Lab Follow-Up,23022.4,732,31.45136612021858
+Pulmonology Unit 2,Patient Follow-Up,51506.4,1548,33.27286821705427
+Pulmonology Unit 2,Scheduling,26130.8,1184,22.06993243243243
+Radiology,Billing Review,1488.2,31,48.00645161290323
+Radiology,Claim Review,78885.5,1587,49.70730938878387
+Radiology,Data Entry,42933.8,1469,29.226548672566373
+Radiology,Excel Report,156163.8,2141,72.93965436711817
+Radiology,Lab Follow-Up,25033.1,732,34.19822404371585
+Radiology,Patient Follow-Up,58192.7,1581,36.80752688172043
+Radiology,Scheduling,29908.4,1239,24.139144471347862
+Radiology Unit 2,Billing Review,1767.9,29,60.96206896551725
+Radiology Unit 2,Claim Review,99503.7,1564,63.6212915601023
+Radiology Unit 2,Data Entry,60012.6,1581,37.958633776091084
+Radiology Unit 2,Excel Report,208320.2,2246,92.75164737310776
+Radiology Unit 2,Lab Follow-Up,31376.4,716,43.82178770949721
+Radiology Unit 2,Patient Follow-Up,76390.0,1604,47.62468827930174
+Radiology Unit 2,Scheduling,36435.3,1190,30.617899159663867
+Rehabilitation,Billing Review,2691.6,43,62.5953488372093
+Rehabilitation,Claim Review,93985.4,1508,62.32453580901856
+Rehabilitation,Data Entry,55511.8,1518,36.56903820816864
+Rehabilitation,Excel Report,203149.3,2241,90.65118250780901
+Rehabilitation,Lab Follow-Up,30867.8,727,42.45914718019257
+Rehabilitation,Patient Follow-Up,75854.9,1642,46.196650426309375
+Rehabilitation,Scheduling,35777.0,1217,29.397699260476582
+Rehabilitation Unit 2,Billing Review,1250.4,42,29.771428571428572
+Rehabilitation Unit 2,Claim Review,45312.0,1525,29.7127868852459
+Rehabilitation Unit 2,Data Entry,25575.9,1487,17.199663752521857
+Rehabilitation Unit 2,Excel Report,94991.7,2280,41.66302631578947
+Rehabilitation Unit 2,Lab Follow-Up,13685.0,665,20.57894736842105
+Rehabilitation Unit 2,Patient Follow-Up,35862.5,1616,22.19214108910891
+Rehabilitation Unit 2,Scheduling,18634.7,1215,15.337201646090536
+Rheumatology,Billing Review,1142.7,24,47.612500000000004
+Rheumatology,Claim Review,80543.6,1572,51.236386768447844
+Rheumatology,Data Entry,46164.6,1569,29.422944550669214
+Rheumatology,Excel Report,159632.1,2165,73.7330715935335
+Rheumatology,Lab Follow-Up,24666.1,707,34.88840169731259
+Rheumatology,Patient Follow-Up,58201.0,1550,37.549032258064514
+Rheumatology,Scheduling,31003.7,1262,24.567115689381932
+Rheumatology Unit 2,Billing Review,791.5,27,29.314814814814813
+Rheumatology Unit 2,Claim Review,43957.6,1566,28.069987228607918
+Rheumatology Unit 2,Data Entry,25901.5,1512,17.130621693121693
+Rheumatology Unit 2,Excel Report,91518.5,2281,40.122095572117495
+Rheumatology Unit 2,Lab Follow-Up,14681.7,744,19.733467741935485
+Rheumatology Unit 2,Patient Follow-Up,34326.2,1641,20.917854966483848
+Rheumatology Unit 2,Scheduling,18629.4,1278,14.57699530516432
+Surgery,Billing Review,1929.1,35,55.11714285714285
+Surgery,Claim Review,85374.3,1587,53.79603024574669
+Surgery,Data Entry,44466.1,1448,30.70863259668508
+Surgery,Excel Report,175958.7,2263,77.75461776403006
+Surgery,Lab Follow-Up,26936.8,728,37.0010989010989
+Surgery,Patient Follow-Up,62909.8,1577,39.89207355738745
+Surgery,Scheduling,33648.9,1312,25.64702743902439
+Surgery Unit 2,Billing Review,614.0,22,27.90909090909091
+Surgery Unit 2,Claim Review,41862.6,1552,26.97332474226804
+Surgery Unit 2,Data Entry,24317.8,1461,16.644626967830252
+Surgery Unit 2,Excel Report,82869.0,2134,38.83270852858482
+Surgery Unit 2,Lab Follow-Up,14094.3,731,19.280848153214773
+Surgery Unit 2,Patient Follow-Up,30468.7,1506,20.231540504648073
+Surgery Unit 2,Scheduling,16639.6,1184,14.053716216216214
+Urology,Billing Review,1685.9,36,46.830555555555556
+Urology,Claim Review,68238.3,1486,45.92079407806191
+Urology,Data Entry,39736.3,1510,26.31543046357616
+Urology,Excel Report,149285.2,2236,66.76440071556351
+Urology,Lab Follow-Up,21093.3,678,31.111061946902655
+Urology,Patient Follow-Up,54360.1,1571,34.602227880331
+Urology,Scheduling,25903.0,1176,22.026360544217688
+Urology Unit 2,Billing Review,1788.9,31,57.70645161290323
+Urology Unit 2,Claim Review,91668.9,1543,59.409526895657805
+Urology Unit 2,Data Entry,51798.0,1498,34.5781041388518
+Urology Unit 2,Excel Report,184697.4,2166,85.27119113573407
+Urology Unit 2,Lab Follow-Up,26929.4,670,40.19313432835821
+Urology Unit 2,Patient Follow-Up,69875.6,1612,43.347146401985114
+Urology Unit 2,Scheduling,35673.0,1256,28.402070063694268
